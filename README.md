@@ -22,3 +22,9 @@ Me chamo Guilherme Miguel, tenho 20 anos, atualmente estou cursando ciências da
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilherme-miguel9&show_icons=true&count_private=true&hide_border=false&title_color=ffa107&icon_color=db9200&text_color=ffffff&bg_color=0d1117" alt="Guilherme Miguel GitHub Stats"/> 
   <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-miguel9&layout=compact&hide_border=false&title_color=ffa107&text_color=ffffff&bg_color=0d1117" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilherme-miguel9/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilherme-miguel9/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilherme-miguel9/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
