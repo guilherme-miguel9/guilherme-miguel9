@@ -24,7 +24,7 @@ Me chamo Guilherme Miguel, tenho 20 anos, atualmente estou cursando ciências da
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilherme-miguel9/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilherme-miguel9/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilherme-miguel9/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilherme-miguel9/guilherme-miguel9/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilherme-miguel9/guilherme-miguel9/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilherme-miguel9/guilherme-miguel9/output/pacman-contribution-graph.svg">
 </picture>
