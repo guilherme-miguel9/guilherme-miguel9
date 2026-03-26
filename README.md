@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo!
-**`Desenvolvedor BackEnd`**
+**`Desenvolvedor BackEnd`** **`Analista de Dados`**
 
-Me chamo Guilherme Miguel, tenho 20 anos, atualmente estou cursando ciências da computação e estou em busca da minha primeira experiência na área como estágio ou programador junior. Estou em constante aprendizado, linguagens em que possuo mais familiaridade é Python e JavaScript.
+Me chamo Guilherme Miguel, tenho 20 anos, atualmente estou cursando ciências da computação e estou em busca da minha primeira experiência na área como estágio ou programador junior. Estou em constante aprendizado, linguagens em que possuo mais familiaridade é Python e bibliotecas como Pandas e NumPy.
 
 ---
 
