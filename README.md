@@ -3,6 +3,9 @@
 
 Me chamo Guilherme Miguel, tenho 20 anos, atualmente estou cursando ciências da computação e estou em busca da minha primeira experiência na área como estágio ou programador junior. Estou em constante aprendizado, linguagens em que possuo mais familiaridade é Python e bibliotecas como Pandas e NumPy.
 
+Meu portfólio para demonstração dos projetos está em: 
+https://guilherme-miguel9.github.io/portfolio/
+
 ---
 
 ### Linguagens e Tecnologia
