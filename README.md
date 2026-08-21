@@ -7,6 +7,7 @@ Me chamo Guilherme Miguel, estou cursando Ciência da Computação e em busca da
 Trabalho com Python (Pandas, NumPy), SQL/PostgreSQL e construção de pipelines de dados — do tratamento e carga em banco até automação de processos corporativos.
 
 Portfólio completo: https://guilherme-miguel9.github.io/portfolio/
+
 LinkedIn: https://www.linkedin.com/in/guilherme-miguel-dados
 
 ---
@@ -40,9 +41,8 @@ LinkedIn: https://www.linkedin.com/in/guilherme-miguel-dados
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilherme-miguel9&show_icons=true&hide_border=false&title_color=ffa107&icon_color=db9200&text_color=ffffff&bg_color=0d1117" alt="Guilherme Miguel GitHub Stats"/> 
-  <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-miguel9&layout=compact&hide_border=false&title_color=ffa107&text_color=ffffff&bg_color=0d1117" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=guilherme-miguel9&theme=dark&hide_border=true&background=0D1117&ring=ffa107&fire=ffa107&currStreakLabel=ffa107" alt="GitHub Streak" />
 </div>
 
 ---
