@@ -41,9 +41,9 @@ LinkedIn: https://www.linkedin.com/in/guilherme-miguel-dados
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=guilherme-miguel9&theme=dark&hide_border=true&background=0D1117&ring=ffa107&fire=ffa107&currStreakLabel=ffa107" alt="GitHub Streak" />
-</div>
+<a href="https://github.com/guilherme-miguel9">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilherme-miguel9&theme=github_dark" alt="GitHub Profile Summary" />
+</a>
 
 ---
 
